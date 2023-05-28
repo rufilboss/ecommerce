@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "moccasin-shark"
+    "name": "ecommerce"
   },
   "api": {
-    "projectId": "wqa4g3ol",
+    "projectId": "vfxfwnaw",
     "dataset": "production"
   },
   "plugins": [
