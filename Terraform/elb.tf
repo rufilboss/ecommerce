@@ -1,4 +1,3 @@
-
 # Creating a load balancer
 resource "aws_alb" "aws-ecommerce-lb" {
   name               = "aws-ecommerce-lb" 

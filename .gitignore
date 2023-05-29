@@ -31,3 +31,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+#Terraform
+Terraform/.terraform
+Terraform/.terraform.lock.hcl
+Terraform/.terraform.lock.json
+Terraform/.terraform.lock.lock
